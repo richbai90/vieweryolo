@@ -1,9 +1,7 @@
-
-import os
-from pathlib import Path
-
-import cv2
 import yaml
+from pathlib import Path
+import os
+import cv2
 
 
 class ImagesLoader:
